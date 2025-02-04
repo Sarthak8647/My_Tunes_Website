@@ -1,6 +1,6 @@
 # My_Tunes_Website
 
-My_Tunes Website is a simple, visually appealing music player website built with HTML and CSS. This project features a user-friendly interface that allows users to explore and play their favorite tunes. 
+My Tunes Website is a simple, visually appealing music player website built with HTML and CSS. This project features a user-friendly interface that allows users to explore and play their favorite tunes. 
 
 Key features include:
 
